@@ -1,7 +1,5 @@
 1 Red
 2 color2
-3 color3
-4 Orange
 5 Red
 6 color6
 7 color7
